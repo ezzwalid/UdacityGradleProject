@@ -12,7 +12,7 @@ import android.widget.Toast;
 
 import com.example.jokepresenterlib.Contacts;
 import com.example.jokepresenterlib.DisplayJokeActivity;
-import com.google.android.gms.ads.MobileAds;
+
 
 
 public class MainActivity extends AppCompatActivity implements AsyncListener{
